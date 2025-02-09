@@ -1,0 +1,14 @@
+streamlit 
+langchain 
+langchain_ollama
+selenium
+beautifulsoup4
+lxml 
+html5lib
+python-dotenv
+
+
+# Notes -> type ollama in cmd(Some Output will come)
+# run this command next -> ollama pull llama3.1
+# run with -> ollama run llama3.2
+# /exit to exit
